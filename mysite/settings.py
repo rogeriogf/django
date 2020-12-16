@@ -25,7 +25,7 @@ SECRET_KEY = 'yw^-ngj(_$h$fc-6p*^gq%r*t7zk%$7^ns)_3(skll=rpxz#0t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'django.techped.com.br']
 
 
 # Application definition
